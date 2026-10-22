@@ -9,14 +9,14 @@ I'm a Computer Science student at Syracuse University with hands-on experience i
 - Designing a **hardware authentication system** using a 555 timer and digital logic for *Intro to Computer and Network Security*
 - Working toward the **TryHackMe Jr. Penetration Tester & SOC Level 1** certifications
 
-## Tech I work in
+## Familiar Technologies
 
 - **Languages:** JavaScript · Python · C · C++ · C# · Haskell · SQL · HTML/CSS
 - **Technologies:** Node.js · PostgreSQL · Git/GitHub · Unity · AWS · Visual Studio · Jira
 - **AI:** Claude · agentic workflow design · AI documentation
 - **Security:** Threat mitigation workflows · penetration testing and SOC fundamentals *(TryHackMe)*
 
-## Featured Work
+## Highlighted Projects
 
 **Hardware Authentication System (555 Timer and Digital Logic)** — *In progress for Intro to Computer and Network Security.* A physical authentication circuit that adds a security layer beyond passwords, which are vulnerable to guessing and repeated unauthorized attempts. The user must enter the correct sequence on push buttons or switches before a 555 timer expires; if the sequence isn't entered in time, the system denies access.
 
@@ -38,7 +38,7 @@ I'm a Computer Science student at Syracuse University with hands-on experience i
 - **3.8 GPA** — B.S. in Computer Science, Syracuse University
 - **TryHackMe** — Jr. Penetration Tester & SOC Level 1 *(in progress)*
 
-## Let's Connect
+## Let's Work Together
 
 - **LinkedIn** — [MaceoMorgan](https://www.linkedin.com/in/maceomorgan)
 - **Email** — [maceo.h.morgan@gmail.com](mailto:maceo.h.morgan@gmail.com)
